@@ -67,10 +67,10 @@ Open in Browser:
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](assets/sceenshot1.png)
+![Homepage](assets/screenshot1.png)
 
 ### Routine Page
-![Routine Page](assets/sceenshot2.png)
+![Routine Page](assets/screenshot2.png)
 
 
 ## 👨‍💻 Developer
