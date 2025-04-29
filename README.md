@@ -1,5 +1,4 @@
 # CSE29-Portal 🚀
-[Visit the Portal → CSE 29 Portal](https://anowarohossain.github.io/CSE29-Portal/)
 
 [Visit on Netlify → CSE 29 Portal](https://cse29portal.netlify.app)
 
