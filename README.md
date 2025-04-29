@@ -1,0 +1,36 @@
+# CSE29-Portal 🚀
+
+This is a class portal website for the SMUCT CSE 29th Batch. It includes important sections such as:
+
+- 📚 Assignments
+- 📝 Class Tests
+- 📅 Routine (Class + Exam)
+- 📢 Important Announcements
+
+
+## 📂 Project Structure
+
+- `index.html` — main webpage layout
+- `style.css` — design and responsiveness
+- Sections are organized in a 3-column responsive layout
+
+
+## 📌 Features
+
+- Responsive and modern layout
+- Assignments, Class Tests, and Announcements
+- Routine section split into Class Routine & Exam Routine
+- Designed with future updates in mind
+
+
+## 🔧 Upcoming Updates
+
+- Allow uploading of study materials (notes, routines, etc.)
+- Add login system for students
+- Dark mode toggle
+- GitHub Pages deployment
+
+
+## 👨‍💻 Developer
+**Anowar Hossain**  
+SMUCT CSE 29th Batch  
