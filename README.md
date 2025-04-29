@@ -66,10 +66,10 @@ Open in Browser:
 
 ## 📸 Screenshots
 
-### Homepage
+### Homepage-1
 ![Homepage](assets/screenshot1.png)
 
-### Routine Page
+### Homepage-2
 ![Routine Page](assets/screenshot2.png)
 
 
