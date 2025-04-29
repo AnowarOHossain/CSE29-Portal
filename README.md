@@ -1,7 +1,6 @@
 # CSE29-Portal 🚀
 
-[Visit on Netlify → CSE 29 Portal](https://cse29portal.netlify.app)
-
+Visit on Netlify → CSE 29 Portal
 This is a class portal website for the SMUCT CSE 29th Batch. It serves as a centralized hub for students to access important academic resources and updates, including:
 
 📚 Assignments: Track coursework and submission deadlines.
@@ -17,13 +16,13 @@ class-tests.html — Displays upcoming class test schedules.
 routine.html — Provides class and exam routine details with downloadable resources.
 announcements.html — Shows important updates and academic calendars.
 style.css — Handles styling and responsiveness across all pages.
-assets/ — Contains images like Class Routine and Academic Calendar.
+assets/ — Contains images like Class Routine, Academic Calendar, and screenshots.
 
 📌 Features
 
 Responsive Design: Optimized for mobile, tablet, and desktop devices.
 Modern UI: Clean layout with gradient backgrounds, animations, and Font Awesome icons.
-Interactive Navigation: Easy access to all sections via a sticky header.
+Interactive Navigation: Easy access to all sectionshint: Easy access to all sections via a sticky header.
 Downloadable Resources: Class Routine and Academic Calendar available for download.
 Scalable Structure: Built to support future enhancements like additional sections or features.
 
@@ -57,8 +56,15 @@ Alternatively, use a local server (e.g., live-server) for a better development e
 
 
 📸 Screenshots
-To be added in future updates.
+Homepage
+
+Assignments Page
+
 👨‍💻 Developer
-Anowar HossainSMUCT CSE 29th BatchEmail: Anowar44400@gmail.comGitHub: AnowarOHossain
+Anowar Hossain
+SMUCT CSE 29th Batch
+Email: Anowar44400@gmail.com
+GitHub: AnowarOHossain
+
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
