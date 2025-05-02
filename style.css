@@ -49,9 +49,17 @@ header h1 {
 
 nav {
   margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
 }
 
-nav a {
+.nav-links {
+  display: flex;
+}
+
+.nav-links a {
   color: var(--text-light);
   margin: 0 10px;
   text-decoration: none;
@@ -61,10 +69,44 @@ nav a {
   transition: background 0.3s ease, transform 0.2s ease;
 }
 
-nav a:hover,
-nav a:focus {
+.nav-links a:hover,
+.nav-links a:focus {
   background: rgba(255, 255, 255, 0.2);
   transform: scale(1.05);
+}
+
+/* ========== Hamburger Menu ========== */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 20px;
+  cursor: pointer;
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.hamburger span {
+  background: var(--text-light);
+  height: 3px;
+  width: 100%;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+.hamburger.active span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.hamburger.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger.active span:nth-child(3) {
+  transform: rotate(-45deg) translate(7px, -7px);
 }
 
 /* ========== Hero Section ========== */
@@ -223,9 +265,28 @@ footer {
 }
 
 @media (max-width: 768px) {
-  nav a {
-    display: block;
-    margin: 8px auto;
+  .hamburger {
+    display: flex;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: var(--gradient-primary);
+    padding: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+
+  .nav-links a {
+    margin: 10px 0;
     text-align: center;
   }
 
