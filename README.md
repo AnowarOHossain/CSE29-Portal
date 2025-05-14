@@ -27,16 +27,12 @@ This is a class portal website for the SMUCT CSE 29th Batch. It serves as a cent
 - Downloadable Resources : Class Routine and Academic Calendar available for download.  
 - Scalable Structure : Built to support future enhancements like additional sections or features.
 
----
-
 ## 🛠️ Technologies Used
 
 - HTML5 : Semantic structure for all pages.  
 - CSS3 : Custom properties, gradients, animations, and responsive grid layouts.  
 - Font Awesome: Icons for visual enhancement.  
 - Netlify: Hosting for seamless deployment.
-
----
 
 ## 🔧 Upcoming Updates
 
