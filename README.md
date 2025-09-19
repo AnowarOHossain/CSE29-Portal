@@ -70,7 +70,6 @@ Open in Browser:
 ## 👨‍💻 Developer
 
 Anowar Hossain
-CSE 29th Batch, SMUCT
-📧 Email: [Anowar44400@gmail.com](mailto:Anowar44400@gmail.com)  
+CSE 29th Batch, SMUCT  
 🔗 GitHub: [AnowarOHossain](https://github.com/AnowarOHossain)
 
