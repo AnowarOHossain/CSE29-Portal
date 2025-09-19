@@ -1,6 +1,6 @@
 # CSE29-Portal 🚀
 
-[Visit on Netlify → CSE 29 Portal](https://cse29portal.netlify.app)  
+[Visit on Netlify → CSE 29 Portal]([https://cse29portal.netlify.app](https://anowarohossain.github.io/CSE29-Portal/))  
 
 This is a class portal website for the SMUCT CSE 29th Batch. It serves as a centralized hub for students to access important academic resources and updates, including:
 
