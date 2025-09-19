@@ -1,7 +1,5 @@
 # CSE29-Portal 🚀
 
-[Visit on Netlify → CSE 29 Portal]([https://cse29portal.netlify.app](https://anowarohossain.github.io/CSE29-Portal/))  
-
 This is a class portal website for the SMUCT CSE 29th Batch. It serves as a centralized hub for students to access important academic resources and updates, including:
 
 📚 Assignments: Track coursework and submission deadlines.  
@@ -76,7 +74,3 @@ CSE 29th Batch, SMUCT
 📧 Email: [Anowar44400@gmail.com](mailto:Anowar44400@gmail.com)  
 🔗 GitHub: [AnowarOHossain](https://github.com/AnowarOHossain)
 
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
