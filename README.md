@@ -69,7 +69,7 @@ Open in Browser:
 
 ## 👨‍💻 Developer
 
-Anowar Hossain
+Anowar Hossain    
 CSE 29th Batch, SMUCT  
 🔗 GitHub: [AnowarOHossain](https://github.com/AnowarOHossain)
 
